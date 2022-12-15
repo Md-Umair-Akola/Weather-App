@@ -1,0 +1,11 @@
+.myinput:not(:placeholder-shown)+.mybtn{
+    display: block;
+}
+
+.mybtn{
+    display: none;
+}
+
+.mybox{
+    box-shadow: 0 2px 4px black !important;
+}
